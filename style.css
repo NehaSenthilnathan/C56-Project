@@ -1,0 +1,15 @@
+body{
+    text-align:center;
+    color:#20bf6b;
+    background-color:#ffda79;
+}
+img{
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-right: 3px;
+    padding-left: 3px;
+    text-align: center;
+}
+p{
+    font-size:25px;
+}
